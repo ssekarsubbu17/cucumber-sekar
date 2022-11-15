@@ -24,7 +24,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class mobilepuchasestep {
 
-	static WebDriver driver ;
+	public static WebDriver driver ;
 
 
 	@Given("user login into flipkart")
